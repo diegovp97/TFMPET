@@ -1,7 +1,0 @@
-streamlit
-requests
-streamlit-components
-Pillow
-pymongo
-pandas
-yagmail
